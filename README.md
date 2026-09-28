@@ -14,4 +14,4 @@ Clone and move the files to the neccesary files.
 Credit to all of those who made the bits (wallpaper, color theme. GTK theme, app style, plasma style, window decorations, icons, cursors, sounds, and startup animation) of this config, the Plasma team, and also the NixOS team for making such a good OS!
 
 # Preview
-![Preview](preview.png)
+![Preview](Screenshot_20260927_204846.png)
